@@ -1,0 +1,8 @@
+text?.txt 
+.idea
+.env
+*.swat
+npm node-modules 
+img*
+.mpeg?
+document**.log 
